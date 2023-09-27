@@ -1,7 +1,8 @@
 
 <h1 align="center">Hey there, I'm pouria rahimy 👋</h1>
 <h3 align="center">Unleashing front end developer and software Engineer Magic from IRAN 🔥</h3>
-hi, i'm [pouria rahimy](https://github.com/rahimy-pouria), a passionate self-taught full stack web developer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [pouria rahimy](https://github.com/rahimy-pouria), 
+I am an experienced front-end developer with expertise in Vue.js, React.js, Nuxt.js, and Next.js. I have a strong track record of creating responsive and dynamic web applications. My skills include building user-friendly interfaces, optimizing website performance, and collaborating effectively with cross-functional teams. I am passionate about staying up-to-date with the latest web development trends and technologies to deliver high-quality results
 
 - 🔭 Currently crafting awesomeness at **PishroDM** 🚀
 
