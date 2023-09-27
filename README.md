@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there, I'm pouria rahimy 👋</h1>
-<h3 align="center">Unleashing Full-Stack Magic from IRAN 🔥</h3>
+<h3 align="center">Unleashing front end developer and software Engineer Magic from IRAN 🔥</h3>
 hi, i'm [pouria rahimy](https://github.com/rahimy-pouria), a passionate self-taught full stack web developer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 🔭 Currently crafting awesomeness at **PishroDM** 🚀
