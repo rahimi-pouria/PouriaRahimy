@@ -1,19 +1,12 @@
 
 <h1 align="center">Hey there, I'm pouria rahimy 👋</h1>
 <h3 align="center">Unleashing front end developer and software Engineer Magic from IRAN 🔥</h3>
-hi, i'm [pouria rahimy](https://github.com/rahimy-pouria), 
+hi, i'm [pouria rahimy](https://github.com/rahimi-pouria), 
 I am an experienced front-end developer with expertise in Vue.js, React.js, Nuxt.js, and Next.js. I have a strong track record of creating responsive and dynamic web applications. My skills include building user-friendly interfaces, optimizing website performance, and collaborating effectively with cross-functional teams. I am passionate about staying up-to-date with the latest web development trends and technologies to deliver high-quality results
 
 - 🔭 Currently crafting awesomeness at **PishroDM** 🚀
 
 <h3 align="left">Connect and Ignite:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rouzbeh-tondkar-a3b63b278" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" />
-  </a>
-
-</p>
-  <img align="right" alt="GIF" src="https://github.com/samogii/samogii/blob/main/full-stack-development.gif" width="500" height="320" />
 
 - 💼 any freelance work? do reach, [email](pouria.rahimy@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
